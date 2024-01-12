@@ -5,7 +5,7 @@
  * Version: 1.0
  * Requires at least: 6.0.0
  * Author: Reilly Lowery
- * Author URI: https://www.45press.com
+ * Author URI: https://github.com/RiFi2k/wp-shell-terminal
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
